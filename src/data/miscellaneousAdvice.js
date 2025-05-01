@@ -1,0 +1,612 @@
+export const miscellaneousAdvice = {
+  status: "OK",
+  copyright:
+    "Copyright (c) 2025 The New York Times Company.  All Rights Reserved.",
+  num_results: 10,
+  last_modified: "2025-04-23T22:25:28-04:00",
+  results: {
+    list_name: "Advice How-To and Miscellaneous",
+    list_name_encoded: "advice-how-to-and-miscellaneous",
+    bestsellers_date: "2025-04-19",
+    published_date: "2025-05-04",
+    published_date_description: "latest",
+    next_published_date: "",
+    previous_published_date: "2025-04-27",
+    display_name: "Advice, How-To & Miscellaneous",
+    normal_list_ends_at: 10,
+    updated: "WEEKLY",
+    books: [
+      {
+        rank: 1,
+        rank_last_week: 1,
+        weeks_on_list: 17,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "1401971369",
+        primary_isbn13: "9781401971366",
+        publisher: "Hay House",
+        description: "",
+        price: "0.00",
+        title: "THE LET THEM THEORY",
+        author: "Mel Robbins",
+        contributor: "by Mel Robbins",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9781401971366.jpg",
+        book_image_width: 333,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "1401971369",
+            isbn13: "9781401971366",
+          },
+          {
+            isbn10: "1401971377",
+            isbn13: "9781401971373",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/1401971369?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9781401971366?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781401971366",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BLET%2BTHEM%2BTHEORY%2FMel%2BRobbins%2F9781401971366",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9781401971366",
+          },
+        ],
+        book_uri: "nyt://book/9639c9a8-e41f-50f7-beca-289f3fdd52af",
+      },
+      {
+        rank: 2,
+        rank_last_week: 0,
+        weeks_on_list: 1,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "1668056003",
+        primary_isbn13: "9781668056004",
+        publisher: "Simon Element",
+        description: "",
+        price: "0.00",
+        title: "HOW TO GIGGLE",
+        author: "Hannah Berner and Paige DeSorbo",
+        contributor: "by Hannah Berner and Paige DeSorbo",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9781668056004.jpg",
+        book_image_width: 333,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/1668056003?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "1668056003",
+            isbn13: "9781668056004",
+          },
+          {
+            isbn10: "166805602X",
+            isbn13: "9781668056028",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/1668056003?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9781668056004?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781668056004",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BGIGGLE%2FHannah%2BBerner%2Band%2BPaige%2BDeSorbo%2F9781668056004",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9781668056004",
+          },
+        ],
+        book_uri: "nyt://book/c685edb5-a3e7-5b5a-a4ff-98f83e048017",
+      },
+      {
+        rank: 3,
+        rank_last_week: 0,
+        weeks_on_list: 1,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "1250378656",
+        primary_isbn13: "9781250378651",
+        publisher: "Flatiron",
+        description: "",
+        price: "0.00",
+        title: "THE NEXT DAY",
+        author: "Melinda French Gates",
+        contributor: "by Melinda French Gates",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9781250378651.jpg",
+        book_image_width: 324,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/1250378656?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "1250378656",
+            isbn13: "9781250378651",
+          },
+          {
+            isbn10: "1250378664",
+            isbn13: "9781250378668",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/1250378656?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9781250378651?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250378651",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNEXT%2BDAY%2FMelinda%2BFrench%2BGates%2F9781250378651",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9781250378651",
+          },
+        ],
+        book_uri: "nyt://book/51a69882-c3b5-52c1-9432-5d81e400f78f",
+      },
+      {
+        rank: 4,
+        rank_last_week: 4,
+        weeks_on_list: 282,
+        asterisk: 0,
+        dagger: 1,
+        primary_isbn10: "0735211299",
+        primary_isbn13: "9780735211292",
+        publisher: "Avery",
+        description: "",
+        price: "0.00",
+        title: "ATOMIC HABITS",
+        author: "James Clear",
+        contributor: "by James Clear",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9780735211292.jpg",
+        book_image_width: 328,
+        book_image_height: 495,
+        amazon_product_url:
+          "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "0735211299",
+            isbn13: "9780735211292",
+          },
+          {
+            isbn10: "0735211302",
+            isbn13: "9780735211308",
+          },
+          {
+            isbn10: "1847941834",
+            isbn13: "9781847941831",
+          },
+          {
+            isbn10: "0593207092",
+            isbn13: "9780593207093",
+          },
+          {
+            isbn10: "1804225789",
+            isbn13: "9781804225783",
+          },
+          {
+            isbn10: "1847941842",
+            isbn13: "9781847941848",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9780735211292?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735211292",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FATOMIC%2BHABITS%2FJames%2BClear%2F9780735211292",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9780735211292",
+          },
+        ],
+        book_uri: "nyt://book/0398a355-c032-534e-a0af-647b06f0840d",
+      },
+      {
+        rank: 5,
+        rank_last_week: 0,
+        weeks_on_list: 1,
+        asterisk: 0,
+        dagger: 1,
+        primary_isbn10: "None",
+        primary_isbn13: "9798887820422",
+        publisher: "Ramsey",
+        description: "",
+        price: "0.00",
+        title: "BUILD A BUSINESS YOU LOVE",
+        author: "Dave Ramsey",
+        contributor: "by Dave Ramsey",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9798887820422.jpg",
+        book_image_width: 321,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/B0D8BQWJVK?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/B0D8BQWJVK?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9798887820422?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9798887820422",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBUILD%2BA%2BBUSINESS%2BYOU%2BLOVE%2FDave%2BRamsey%2F9798887820422",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9798887820422",
+          },
+        ],
+        book_uri: "nyt://book/68356527-a1a3-598f-b085-9399a112ad62",
+      },
+      {
+        rank: 6,
+        rank_last_week: 5,
+        weeks_on_list: 30,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "059379625X",
+        primary_isbn13: "9780593796252",
+        publisher: "Rodale",
+        description: "",
+        price: "0.00",
+        title: "THE NEW MENOPAUSE",
+        author: "Mary Claire Haver",
+        contributor: "by Mary Claire Haver",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9780593796252.jpg",
+        book_image_width: 333,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/059379625X?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "059379625X",
+            isbn13: "9780593796252",
+          },
+          {
+            isbn10: "0593796268",
+            isbn13: "9780593796269",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/059379625X?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9780593796252?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593796252",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNEW%2BMENOPAUSE%2FMary%2BClaire%2BHaver%2F9780593796252",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9780593796252",
+          },
+        ],
+        book_uri: "nyt://book/307f1eb3-dfc7-5ffe-9d22-25e239d0778c",
+      },
+      {
+        rank: 7,
+        rank_last_week: 0,
+        weeks_on_list: 1,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "0593842650",
+        primary_isbn13: "9780593842652",
+        publisher: "DK",
+        description: "",
+        price: "0.00",
+        title: "BY HEART",
+        author: "Hailee Catalano",
+        contributor: "by Hailee Catalano",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9780593842652.jpg",
+        book_image_width: 404,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/0593842650?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "0593842650",
+            isbn13: "9780593842652",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/0593842650?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9780593842652?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593842652",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FBY%2BHEART%2FHailee%2BCatalano%2F9780593842652",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9780593842652",
+          },
+        ],
+        book_uri: "nyt://book/261dcb53-0fab-5951-85ba-d15c7667ce47",
+      },
+      {
+        rank: 8,
+        rank_last_week: 0,
+        weeks_on_list: 8,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "1523515643",
+        primary_isbn13: "9781523515646",
+        publisher: "Workman",
+        description: "",
+        price: "0.00",
+        title: "THERE ARE MOMS WAY WORSE THAN YOU",
+        author: "Glenn Boozan.",
+        contributor: "by Glenn Boozan. Illustrated by Priscilla Witte",
+        contributor_note: "Illustrated by Priscilla Witte",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9781523515646.jpg",
+        book_image_width: 325,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/1580058906?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "1523515643",
+            isbn13: "9781523515646",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/1580058906?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9781523515646?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781523515646",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHERE%2BARE%2BMOMS%2BWAY%2BWORSE%2BTHAN%2BYOU%2FGlenn%2BBoozan.%2F9781523515646",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9781523515646",
+          },
+        ],
+        book_uri: "nyt://book/f939e377-cab9-5f89-ba8d-4f671e4b6703",
+      },
+      {
+        rank: 9,
+        rank_last_week: 0,
+        weeks_on_list: 1,
+        asterisk: 0,
+        dagger: 1,
+        primary_isbn10: "None",
+        primary_isbn13: "9798887100432",
+        publisher: "Maxwell Leadership",
+        description: "",
+        price: "0.00",
+        title: "HOW TO WORK WITH COMPLICATED PEOPLE",
+        author: "Ryan Leak",
+        contributor: "by Ryan Leak",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9798887100432.jpg",
+        book_image_width: 333,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/B0D7J6P9JJ?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/B0D7J6P9JJ?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9798887100432?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9798887100432",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FHOW%2BTO%2BWORK%2BWITH%2BCOMPLICATED%2BPEOPLE%2FRyan%2BLeak%2F9798887100432",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9798887100432",
+          },
+        ],
+        book_uri: "nyt://book/34d6516e-74f1-599f-a3d8-5c04118b6883",
+      },
+      {
+        rank: 10,
+        rank_last_week: 7,
+        weeks_on_list: 5,
+        asterisk: 0,
+        dagger: 0,
+        primary_isbn10: "0593718720",
+        primary_isbn13: "9780593718728",
+        publisher: "Tarcher",
+        description: "",
+        price: "0.00",
+        title: "THE NEXT CONVERSATION",
+        author: "Jefferson Fisher",
+        contributor: "by Jefferson Fisher",
+        contributor_note: "",
+        book_image:
+          "https://storage.googleapis.com/du-prd/books/images/9780593718728.jpg",
+        book_image_width: 331,
+        book_image_height: 500,
+        amazon_product_url:
+          "https://www.amazon.com/dp/0593718720?tag=thenewyorktim-20",
+        age_group: "",
+        book_review_link: "",
+        first_chapter_link: "",
+        sunday_review_link: "",
+        article_chapter_link: "",
+        isbns: [
+          {
+            isbn10: "0593718720",
+            isbn13: "9780593718728",
+          },
+          {
+            isbn10: "0593718968",
+            isbn13: "9780593718964",
+          },
+        ],
+        buy_links: [
+          {
+            name: "Amazon",
+            url: "https://www.amazon.com/dp/0593718720?tag=thenewyorktim-20",
+          },
+          {
+            name: "Apple Books",
+            url: "https://goto.applebooks.apple/9780593718728?at=10lIEQ",
+          },
+          {
+            name: "Barnes and Noble",
+            url: "https://www.anrdoezrs.net/click-7990613-11819508?url=https%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780593718728",
+          },
+          {
+            name: "Books-A-Million",
+            url: "https://www.anrdoezrs.net/click-7990613-35140?url=https%3A%2F%2Fwww.booksamillion.com%2Fp%2FTHE%2BNEXT%2BCONVERSATION%2FJefferson%2BFisher%2F9780593718728",
+          },
+          {
+            name: "Bookshop.org",
+            url: "https://bookshop.org/a/3546/9780593718728",
+          },
+        ],
+        book_uri: "nyt://book/b3376a9f-42b2-50cc-8391-d58f97b621da",
+      },
+    ],
+    corrections: [],
+  },
+};
